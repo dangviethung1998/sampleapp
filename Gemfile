@@ -5,6 +5,9 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+gem "will_paginate"
+gem "bootstrap-will_paginate"
+gem "faker"
 gem "jquery-rails"
 gem 'bootstrap-sass', '3.3.7'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
