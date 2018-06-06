@@ -27,3 +27,6 @@
 
 # Ignore application configuration
 /config/application.yml
+
+# Inore uploader test images
+/public/uploads
