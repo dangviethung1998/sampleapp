@@ -21,3 +21,12 @@
 /yarn-error.log
 
 .byebug_history
+
+# Ignore Spring files.
+/spring/*.pid
+
+# Ignore application configuration
+/config/application.yml
+
+# Inore uploader test images
+/public/uploads
